@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UdemyCPP" Database="" Version="10000">
+  <Project Name="UdemyCPP" Path="UdemyCPP/UdemyCPP.project" Active="No"/>
+  <Project Name="Rproject1" Path="Rproject1/Rproject1.project" Active="No"/>
+  <Project Name="Pointers" Path="Pointers/Pointers.project" Active="No"/>
+  <Project Name="deepCopyConstructor" Path="deepCopyConstructor/deepCopyConstructor.project" Active="No"/>
+  <Project Name="OperatorOverloading" Path="OperatorOverloading/OperatorOverloading.project" Active="No"/>
+  <Project Name="moveOperatorOverloading" Path="moveOperatorOverloading/moveOperatorOverloading.project" Active="No"/>
+  <Project Name="MystringOperatorFunctions" Path="MystringOperatorFunctions/MystringOperatorFunctions.project" Active="No"/>
+  <Project Name="MystringInsertionExtraction" Path="MystringInsertionExtraction/MystringInsertionExtraction.project" Active="No"/>
+  <Project Name="CopyConstructorAssignmentOperator" Path="CopyConstructorAssignmentOperator/CopyConstructorAssignmentOperator.project" Active="No"/>
+  <Project Name="ChallengeSec15" Path="ChallengeSec15/ChallengeSec15.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UdemyCPP" ConfigName="Debug"/>
+      <Project Name="Rproject1" ConfigName="Debug"/>
+      <Project Name="Pointers" ConfigName="Debug"/>
+      <Project Name="deepCopyConstructor" ConfigName="Debug"/>
+      <Project Name="OperatorOverloading" ConfigName="Debug"/>
+      <Project Name="moveOperatorOverloading" ConfigName="Debug"/>
+      <Project Name="MystringOperatorFunctions" ConfigName="Debug"/>
+      <Project Name="MystringInsertionExtraction" ConfigName="Debug"/>
+      <Project Name="CopyConstructorAssignmentOperator" ConfigName="Debug"/>
+      <Project Name="ChallengeSec15" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="UdemyCPP" ConfigName="Release"/>
+      <Project Name="Rproject1" ConfigName="Release"/>
+      <Project Name="Pointers" ConfigName="Release"/>
+      <Project Name="deepCopyConstructor" ConfigName="Release"/>
+      <Project Name="OperatorOverloading" ConfigName="Release"/>
+      <Project Name="moveOperatorOverloading" ConfigName="Release"/>
+      <Project Name="MystringOperatorFunctions" ConfigName="Release"/>
+      <Project Name="MystringInsertionExtraction" ConfigName="Release"/>
+      <Project Name="CopyConstructorAssignmentOperator" ConfigName="Release"/>
+      <Project Name="ChallengeSec15" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
