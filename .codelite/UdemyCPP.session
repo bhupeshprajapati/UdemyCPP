@@ -1,25 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\UdemyCPP.workspace">
-  <int Value="23" Name="m_selectedTab"/>
+  <int Value="26" Name="m_selectedTab"/>
   <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\UdemyCPP.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\UdemyCPP\main.cpp" Name="FileName"/>
-      <int Value="2" Name="FirstVisibleLine"/>
-      <int Value="9" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\UdemyCPP2\main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
       <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\Rproject1\main.cpp" Name="FileName"/>
-      <int Value="10" Name="FirstVisibleLine"/>
+      <int Value="0" Name="FirstVisibleLine"/>
       <int Value="11" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -28,13 +14,6 @@
       <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\project1\main.cpp" Name="FileName"/>
       <int Value="15" Name="FirstVisibleLine"/>
       <int Value="16" Name="CurrentLine"/>
-      <wxArrayString Name="Bookmarks"/>
-      <IntVector Name="CollapsedFolds"/>
-    </TabInfo>
-    <TabInfo>
-      <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\UdemyCPP\pointers.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
@@ -180,8 +159,36 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\ChallengeSec15\Account.cpp" Name="FileName"/>
-      <int Value="16" Name="FirstVisibleLine"/>
+      <int Value="25" Name="FirstVisibleLine"/>
       <int Value="26" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\CopyConstructorAssignmentOperator\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="0" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\ExceptionHandeling\main.cpp" Name="FileName"/>
+      <int Value="104" Name="FirstVisibleLine"/>
+      <int Value="105" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\IOstream\main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="9" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\sectionChallengeStreamsIO\main.cpp" Name="FileName"/>
+      <int Value="75" Name="FirstVisibleLine"/>
+      <int Value="89" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
