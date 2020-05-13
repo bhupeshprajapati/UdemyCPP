@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\UdemyCPP.workspace">
-  <int Value="31" Name="m_selectedTab"/>
+  <int Value="34" Name="m_selectedTab"/>
   <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\UdemyCPP.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
@@ -187,7 +187,7 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\sectionChallengeStreamsIO\main.cpp" Name="FileName"/>
-      <int Value="83" Name="FirstVisibleLine"/>
+      <int Value="98" Name="FirstVisibleLine"/>
       <int Value="99" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -201,28 +201,28 @@
     </TabInfo>
     <TabInfo>
       <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\ReadFile\test.txt" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="5" Name="FirstVisibleLine"/>
       <int Value="6" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\ReadFile_2\main.cpp" Name="FileName"/>
-      <int Value="9" Name="FirstVisibleLine"/>
+      <int Value="31" Name="FirstVisibleLine"/>
       <int Value="32" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\ReadFile_2\poem.txt" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="11" Name="FirstVisibleLine"/>
       <int Value="12" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
       <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\fileTestScoreChallenge\main.cpp" Name="FileName"/>
-      <int Value="32" Name="FirstVisibleLine"/>
+      <int Value="4" Name="FirstVisibleLine"/>
       <int Value="46" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
@@ -231,6 +231,20 @@
       <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\fileTestScoreChallenge\test.txt" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
       <int Value="8" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\FunctionTemplate\main.cpp" Name="FileName"/>
+      <int Value="47" Name="FirstVisibleLine"/>
+      <int Value="58" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\OTHERS\TUTORIALS\UdemyCPP\UdemyCPP\ClassTemplateforArray\main.cpp" Name="FileName"/>
+      <int Value="83" Name="FirstVisibleLine"/>
+      <int Value="98" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
